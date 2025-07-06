@@ -1,0 +1,3 @@
+AI is a branch of computer science that aims to create intelligent machines.
+The Eiffel Tower is located in Paris, France.
+Python is a programming language often used in data science.
